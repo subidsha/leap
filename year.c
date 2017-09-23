@@ -1,12 +1,10 @@
 #include<stdio.h>
-int n;
-printf("enter the year",n);
-scanf("%d",n);
-if(n%4==0)
+#include<string.h>
 {
-printf("this is laep year",n);
+char a=hello;
+printf("the word is",a);
+for(i=1;i<=5;i++)
+{
+printf("a");
 }
-else
-{
-printf("thi is not leap year",n);
 }
